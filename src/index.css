@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* @import "tailwindcss"; */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: "Outfit", sans-serif;
+}
+
+/* @theme{
+  --color-primary: #2563EB;
+  --color-primary-dull: #1F58D8;
+  --color-light: #F1F5F9;
+  --color-bordercolor : #c4c7d2; 
+} */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav-link{
+  margin-left: 30px;
+}
+
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 150px;
+}
+
+#supportHero input{
+  padding: 15px 50px;
+  width: 100%;
+  border-radius: 6px;
+  border: none;
+
+}
+.pricing-card {
+  padding: 80px;
+  text-align: center;
+}
+
+.pricing-img {
+  width: 110px;       /* perfect for desktop */
+  height: auto;
+  margin-bottom: 24px;
+}
+
+.pricing-card h2 {
+  margin-bottom: 12px;
+}
+
+.pricing-card p {
+  line-height: 1.6;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+

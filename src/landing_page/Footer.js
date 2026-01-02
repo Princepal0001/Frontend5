@@ -17,8 +17,8 @@ All rights reserved.</p>
                     <a href='' style={{textDecoration: "none"}}> Philosophy </a> <br/>
                     <a href='' style={{textDecoration: "none"}}> Press & media </a> <br/>
                     <a href='' style={{textDecoration: "none"}}> Careers </a> <br/>
-                    <a href='' style={{textDecoration: "none"}}> Zerodha Cares (CSR) </a> <br/>
-                    <a href='' style={{textDecoration: "none"}}> Zerodha.tech </a> <br/>
+                    <a href='' style={{textDecoration: "none"}}> Investa Cares (CSR) </a> <br/>
+                    <a href='' style={{textDecoration: "none"}}> Investa.tech </a> <br/>
                     <a href='' style={{textDecoration: "none"}}> Open source </a> <br/>
 
                 </div>

@@ -1,12 +1,12 @@
 import React from 'react';
-import Finexa from "../assets/finexa3.png";
+import image from "../assets/image1.png";
 
 function Footer() {
     return (  
         <div className='container border-top '>
             <div className='row mt-5'>
                 <div className='col'>
-                    <img src={Finexa} style={{width: "35%"}}/>
+                    <img src={image} style={{width: "35%"}}/>
                     <p>&copy; 2010 - 2025, Zerodha Broking Ltd.
 All rights reserved.</p>
                 </div>
@@ -48,7 +48,7 @@ All rights reserved.</p>
             </div>
 
             <div className='mt-5  text-muted ' style={{fontSize: "12px"}}>
-            <p className="">Finexa Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration no.: INZ000031633 CDSL/NSDL: Depository services through Finexa Broking Ltd. – SEBI Registration no.: IN-DP-431-2019 Commodity Trading through Finexa Commodities Pvt. Ltd. MCX: 46025; SEBI Registration no.: INZ000038238 Registered Address: Finexa Broking Ltd., #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India. For any complaints pertaining to securities broking please write to complaints@Finexa.com, for DP related to dp@Finexa.com. Please ensure you carefully read the Risk Disclosure Document as prescribed by SEBI | ICF</p>
+            <p className="">Investa Broking Ltd.: Member of NSE, BSE​ &​ MCX – SEBI Registration no.: INZ000031633 CDSL/NSDL: Depository services through Finexa Broking Ltd. – SEBI Registration no.: IN-DP-431-2019 Commodity Trading through Finexa Commodities Pvt. Ltd. MCX: 46025; SEBI Registration no.: INZ000038238 Registered Address: Finexa Broking Ltd., #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India. For any complaints pertaining to securities broking please write to complaints@Finexa.com, for DP related to dp@Finexa.com. Please ensure you carefully read the Risk Disclosure Document as prescribed by SEBI | ICF</p>
             <p>Procedure to file a complaint on SEBI SCORES: Register on SCORES portal. Mandatory details for filing complaints on SCORES: Name, PAN, Address, Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy redressal of the grievances</p>
             <p>Investments in securities market are subject to market risks; read all the related documents carefully before investing.</p>
             <p>Attention investors: 1. Stock brokers can accept securities as margins from clients only by way of pledge in the depository system w.e.f September 01, 2020. 2. Update your e-mail and phone number with your stock broker / depository participant and receive OTP directly from depository on your e-mail and/or mobile number to create pledge. 3. Check your securities / MF / bonds in the consolidated account statement issued by NSDL/CDSL every month.</p>

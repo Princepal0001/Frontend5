@@ -39,7 +39,7 @@ function Navbar() {
              
               <button onClick={handleLogin } className='cursor-pointer px-1 py-0.5 text-black hover:text-gray-600 bg-transparent rounded transition-all border border-white '>{user ? 'Logout':'Login'}</button>
              { user && (<li class="nav-item">
-                <Link class="nav-link active" aria-current="page" to="https://dashboard2-dun-sigma.vercel.app">
+                <Link class="nav-link active" aria-current="page" to="https://dashboard2-alpha.vercel.app">
                   dashboard
                 </Link>
               </li>)}

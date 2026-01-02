@@ -17,7 +17,7 @@ function Navbar() {
       <nav class="navbar navbar-expand-lg border-bottom" style={{backgroundColor: "#FFF"}}>
         <div class="container p-2">
           <Link class="navbar-brand" to="/">
-            <img src={image} alt="Logo" style={{width: "20%"}}/>
+            <img src={image} alt="Logo" style={{width: "15%"}}/>
            
 
           </Link>

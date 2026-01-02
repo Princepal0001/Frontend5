@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { useAppContext } from "./Context/AppContext";
-import image from "../assets/image.png";
+import image from "../assets/image1.png";
 
 function Navbar() {
   const {setShowLogin,user,logout,axios} = useAppContext()

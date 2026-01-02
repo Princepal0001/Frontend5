@@ -7,7 +7,7 @@ function Footer() {
             <div className='row mt-5'>
                 <div className='col'>
                     <img src={image} style={{width: "35%"}}/>
-                    <p>&copy; 2010 - 2025, Zerodha Broking Ltd.
+                    <p>&copy; 2010 - 2025, Investa Broking Ltd.
 All rights reserved.</p>
                 </div>
                 <div className='col'>
